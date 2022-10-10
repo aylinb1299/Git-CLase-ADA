@@ -1,1 +1,2 @@
 Prueba 1 de Git
+Segunda línea en el archivo
